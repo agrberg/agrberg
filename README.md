@@ -10,4 +10,7 @@ I'm Aaron and I'm looking forward to working with you. This document's purpose i
 
 **I care about the details.** Different people find different details important or elusive. I have particular trouble with my go-to example of catching spelling errors. However, I enjoyed checking a dictionary to ensure "go-to" is the written form of the adjective and not the transitive verb, "go to."
 
-###  [My values](values.md) guide my day-to-day decision making.
+## Want to know more?
+* [My values](values.md) guide my day-to-day decision making.
+* [Inspiration](inspiration.md) and quotes I keep in mind to help with tough decisions.
+* [My Résumé](https://bit.ly/agr-resume) to check my creds (or [LinkedIn](https://www.linkedin.com/in/agrberg) if that's your thing)
