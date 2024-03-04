@@ -1,6 +1,6 @@
 # Inspiring Images
 
-This is how we want to build MVPs together!
+Let's build MVPs like this together!
 
 ![How to build an MVP](mvp.png)
 
