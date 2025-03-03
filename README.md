@@ -13,5 +13,6 @@ I'm Aaron and I look forward to working with you. This document shares how I thi
 ## Would you like to know more?
 * [My values](values.md) guide my day-to-day decision making.
 * [Inspiration](inspiration.md) and quotes I keep in mind to help with tough decisions.
-* [Résumé](https://bit.ly/agr-resume)
+* [Résumé](https://docs.google.com/document/d/16HJUokYa9xYF6is7VkUr1nF4UJW0jFmuX-jkScv5l3s)
 * [LinkedIn](https://www.linkedin.com/in/agrberg)
+* [Medium](https://medium.com/@agrberg)
