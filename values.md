@@ -16,7 +16,7 @@ Be the change you wish to see in the world. Work together with people who believ
 > free of deceit and untruthfulness[^3]
 [^3]: [Definitions 1 and 2](https://www.dictionary.com/browse/honesty)
 
-Honesty enables trust and builds true, long-term kindness. It's okay to disagree with the truth, but you should be provided the whole truth.
+Honesty enables trust and builds true, long-term kindness. It is often necessary to disagree and commit, but you need to be provided the whole truth.
 
 ## Learning
 > acquisition of knowledge through work[^4]
